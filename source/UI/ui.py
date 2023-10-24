@@ -17,7 +17,7 @@ class UI:
 
     @staticmethod
     def _welcome_message():
-        print('\nWelcome to Planes!')
+        print('\nWelcome to Aerial Assault!')
         print('For drawing a plane, type the desired cell for its head. Example: C9')
         print('The orientation of a plane can be chosen by typing Up/Down/Left/Right. Example: Down')
 
