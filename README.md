@@ -1,4 +1,4 @@
-# AI-Aerial-Assault
+# AI Aerial Assault
 
 # What's the game about?
 
